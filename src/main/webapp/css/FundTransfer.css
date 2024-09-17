@@ -1,0 +1,52 @@
+td {
+	align-content: center;
+	padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+input {
+	padding: 5px;
+	margin: 5px;
+}
+
+button {
+	background-color: aqua;
+	border: 2px solid black;
+	color: rgb(255, 255, 255);
+	padding: 15px 28px;
+	width: 100%;
+	margin: 10px 0px;
+	height: 50px;
+	width: 200px;
+	text-align: center; font-size : 12px;
+	margin: 4px 2px;
+	transition-duration: 0.2s;
+	cursor: pointer;
+	border-radius: 20px;
+	font-size: 12px;
+}
+
+button:hover {
+	background-color: rgb(4, 94, 1);
+	border: 1px solid;
+	color: rgb(255, 255, 255);
+}
+
+form {
+	margin: auto;
+	margin-top: 30px;
+	background-color: rgb(84, 173, 255);
+	width: 500px;
+	border: 1px solid black;
+	padding: 50px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: monospace;
+    font-weight: 400;
+    text-align: center;
+}
